@@ -2,7 +2,8 @@
 
 ##WEB_VR
 
-* [textures](../Web_VR/demo_VR.html)
+* [textures](../WEB_VR/demo_VR.html)
 
-* [labirynth](../Web_VR/labirynth.html)
+* [labirynth](../WEB_VR/labirynth.html)
+
 
