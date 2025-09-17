@@ -1,4 +1,4 @@
 DNMADE 2
 
-WEB_VR_17.09 
-* [yaritza_petiteau_textures_GH](https://ytzhtml.github.io/WEB_VR_v1/demo_VR.html)
+17.09 
+* [yaritza_petiteau_textures](https://ytzhtml.github.io/WEB_VR_v1/demo_VR.html)
